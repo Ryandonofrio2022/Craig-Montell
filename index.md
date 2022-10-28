@@ -2,10 +2,11 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Harnessing the world's deadliest animal
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+A central question in neurobiology is how animal behavior and decision making is controlled. Using CRISPR/Cas9, optogenetics, electrophysiological, biochemical and cell biological approaches in the fruit fly, Drosophila melanogaster, and in the mosquito, Aedes aegypti, our laboratory is defining the neuronal mechanisms that impact on decisions ranging from food selection to choosing the ideal thermal landscape, mate selection and others. As part of this endeavor, we are also deciphering polymodal sensory roles of TRP channels, gustatory receptors, ionotropic receptors and rhodopsins, and defining the behaviors that they control. The goal of our most recent work on the mosquito vector, Aedes aegypti, is too control infectious diseases such as Dengue, Zika and others that affect hundreds of millions of people each year.
+
+
 
 {%
   include link.html
@@ -34,8 +35,7 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team publisehss blah blah blah
 
 {%
   include link.html
@@ -73,13 +73,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Our Protocols"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have designed state of the art protocols for a variety of techniques and assays
 
 {%
   include link.html
