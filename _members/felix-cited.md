@@ -1,18 +1,15 @@
 ---
-name: Felix Cited
-image: images/member.jpg
-description: Treat Researcher
+name: Zijing Chen 
+image: images/zijing.jpg
+description: Postdoctoral Fellow
 role: phd
-group: alum
 aliases:
-  - F. Cited
-  - F Cited
+
 links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+  home-page: zijingfuturewebsite.com
+  email: zjchencn@gmail.com
+  github: N/A
 ---
 
-Felix is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+B.S., 1999-2003 Peking University, P.R. China
+Ph.D., 2004-2010 Institute of Neuroscience, Chinese Academy of Sciences, P.R. China
