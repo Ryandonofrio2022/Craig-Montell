@@ -18,9 +18,11 @@
   date: '2022-01-12'
   link: https://doi.org/gphjq5
   image: https://www.nature.com/articles/s41467-021-27654-1/figures/1
+  extra-links:
+  - type: manubot
   tags:
   - Aedes
-  _cache: 7739a434d13359f1f4a16444b9a72a10d4f6dd5f7e6d982737c50a34d35e0da2
+  _cache: 0becb70c5e081c7f90d583c0b4bec1d4a81a8e2b778e341167a05de14c84dffe
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
