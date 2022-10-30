@@ -1,6 +1,6 @@
 ---
 name: Anindya Ganguly
-image: images\LabMem\anin.jpg
+image: images/anin.jpg
 description: Postdoctoral Fellow
 role: phd
 aliases:
