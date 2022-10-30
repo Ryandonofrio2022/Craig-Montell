@@ -1,6 +1,6 @@
 ---
 name: Jiangqu Liu
-image: images\LabMem\Jiang.jpg
+image: images/Jiang.jpg
 description: Postdoctoral Fellow
 role: phd
 aliases:

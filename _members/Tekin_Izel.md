@@ -1,6 +1,6 @@
 ---
 name: Izel Tekin
-image: images\LabMem\izel.jpg
+image: images/izel.jpg
 description: Postdoctoral Fellow
 role: phd
 aliases:

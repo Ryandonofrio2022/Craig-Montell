@@ -1,6 +1,6 @@
 ---
 name: Arumoy Chatterjee
-image: images\LabMem\arum.jpg
+image: images/arum.jpg
 description: Postdoctoral Fellow
 role: phd
 aliases:

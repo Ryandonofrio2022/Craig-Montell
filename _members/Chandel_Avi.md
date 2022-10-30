@@ -1,6 +1,6 @@
 ---
 name: Avinash Chandel
-image: images\LabMem\avina.jpg
+image: images/avina.jpg
 description: Postdoctoral Fellow
 role: phd
 aliases:

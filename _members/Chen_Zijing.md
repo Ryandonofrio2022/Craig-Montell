@@ -1,6 +1,6 @@
 ---
 name: Zijing Chen 
-image: images\LabMem\zijing.jpg
+image: images/zijing.jpg
 description: Postdoctoral Fellow
 role: phd
 aliases:

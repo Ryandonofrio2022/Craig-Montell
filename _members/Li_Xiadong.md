@@ -1,6 +1,6 @@
 ---
 name: Xiaodong Li
-image: images\LabMem\xiadong.jpg
+image: images/xiadong.jpg
 description: Postdoctoral Fellow
 role: phd
 aliases:

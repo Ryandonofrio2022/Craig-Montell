@@ -1,6 +1,6 @@
 ---
 name: Nick DeBeaubien
-image: images\LabMem\nick.jpg
+image: images/nick.jpg
 description: Postdoctoral Fellow
 role: phd
 aliases:
