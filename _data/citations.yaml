@@ -20,9 +20,11 @@
   image: https://www.nature.com/articles/s41467-021-27654-1/figures/1
   extra-links:
   - type: manubot
+    link: https://www.nature.com/articles/s41467-021-27654-1
   tags:
-  - Aedes
-  _cache: 0becb70c5e081c7f90d583c0b4bec1d4a81a8e2b778e341167a05de14c84dffe
+  - Drosophilia melanogaster
+  - Collab
+  _cache: 7de6dfe6a627a09635b6cfeff542d7e309acde21998b8de81b8d988d710cdada
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
