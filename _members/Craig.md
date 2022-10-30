@@ -4,7 +4,7 @@ image: images/craig.jpg
 description: Principal Investigator
 role: pi
 aliases:
-  - Bossman
+  - Craig Montell
 links:
   orcid: 0000-0001-5637-1482
   email: cmontell@ucsb.edu
