@@ -1,6 +1,6 @@
 ---
 name: Dr. Craig Montell
-image: images/craig.jpg
+image: images\LabMem\craig.jpg
 description: Principal Investigator
 role: pi
 aliases:

@@ -1,15 +1,13 @@
 ---
-name: Zijing Chen 
-image: images/zijing.jpg
+name: Pratik Dhavan
+image: images\LabMem\pratik.jpg
 description: Postdoctoral Fellow
 role: phd
 aliases:
 
 links:
-  home-page: zijingfuturewebsite.com
-  email: zjchencn@gmail.com
+  home-page: pratikwebsite.com
+  email: pratikdhavan@ucsb.edu
   github: N/A
 ---
 
-B.S., 1999-2003 Peking University, P.R. China
-Ph.D., 2004-2010 Institute of Neuroscience, Chinese Academy of Sciences, P.R. China
