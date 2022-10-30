@@ -1,21 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41467-021-27654-1
+  title: Reversing insecticide resistance with allelic-drive in Drosophila melanogaster
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - Bhagyashree Kaduskar
+  - Raja Babu Singh Kushwah
+  - Ankush Auradkar
+  - Annabel Guichard
+  - Menglin Li
+  - Jared B. Bennett
+  - Alison Henrique Ferreira Julio
+  - John M. Marshall
+  - Craig Montell
+  - Ethan Bier
+  publisher: Nature Communications
+  date: '2022-01-12'
+  link: https://doi.org/gphjq5
+  image: https://www.nature.com/articles/s41467-021-27654-1/figures/1
   tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  - Aedes
+  _cache: 7739a434d13359f1f4a16444b9a72a10d4f6dd5f7e6d982737c50a34d35e0da2
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
