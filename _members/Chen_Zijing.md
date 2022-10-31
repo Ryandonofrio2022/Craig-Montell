@@ -2,7 +2,7 @@
 name: Zijing Chen 
 image: images/zijing.jpg
 description: Postdoctoral Fellow
-role: phd
+role: postdoc
 aliases:
 
 links:

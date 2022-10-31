@@ -1,13 +1,13 @@
 ---
-name: Dhananjay Thakur 
-image: images/dhanan.jpg
-description: Postdoctoral Fellow
-role: phd
+name: Emma Duge
+image: images/Emma.jpg
+description: PhD Student
+role: postdoc
 aliases:
 
 links:
-  home-page: dhananjayfuturewebsite.com
-  email: dhananjay.p.thakur@gmail.com
+  home-page: 
+  email: 
   github: N/A
 ---
 

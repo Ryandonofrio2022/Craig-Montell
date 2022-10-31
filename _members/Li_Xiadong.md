@@ -2,7 +2,7 @@
 name: Xiaodong Li
 image: images/xiadong.jpg
 description: Postdoctoral Fellow
-role: phd
+role: postdoc
 aliases:
 
 links:

@@ -2,7 +2,7 @@
 name: Pratik Dhavan
 image: images/pratik.jpg
 description: Postdoctoral Fellow
-role: phd
+role: postdoc
 aliases:
 
 links:

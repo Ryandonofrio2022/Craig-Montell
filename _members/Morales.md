@@ -1,13 +1,13 @@
 ---
-name: Dhananjay Thakur 
-image: images/dhanan.jpg
-description: Postdoctoral Fellow
+name: Angela Morales
+image: images/Angela.jpg
+description: PhD Student
 role: phd
 aliases:
 
 links:
-  home-page: dhananjayfuturewebsite.com
-  email: dhananjay.p.thakur@gmail.com
+  home-page: angela.e.morales@lifesci.ucsb.edu
+  email: angela.e.morales@lifesci.ucsb.edu
   github: N/A
 ---
 

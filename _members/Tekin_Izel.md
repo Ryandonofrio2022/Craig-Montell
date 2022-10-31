@@ -2,7 +2,7 @@
 name: Izel Tekin
 image: images/izel.jpg
 description: Postdoctoral Fellow
-role: phd
+role: postdoc
 aliases:
 
 links:

@@ -2,7 +2,7 @@
 name: Nick DeBeaubien
 image: images/nick.jpg
 description: Postdoctoral Fellow
-role: phd
+role: postdoc
 aliases:
 
 links:

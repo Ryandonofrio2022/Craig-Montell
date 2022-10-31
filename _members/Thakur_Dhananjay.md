@@ -2,7 +2,7 @@
 name: Dhananjay Thakur 
 image: images/dhanan.jpg
 description: Postdoctoral Fellow
-role: phd
+role: postdoc
 aliases:
 
 links:

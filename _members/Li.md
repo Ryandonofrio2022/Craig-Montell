@@ -1,13 +1,13 @@
 ---
-name: Dhananjay Thakur 
-image: images/dhanan.jpg
-description: Postdoctoral Fellow
+name: Menglin Li
+image: images/Menglin.jpg
+description: PhD Student
 role: phd
 aliases:
 
 links:
-  home-page: dhananjayfuturewebsite.com
-  email: dhananjay.p.thakur@gmail.com
+  home-page: menglin@umail.ucsb.edu
+  email: menglin@umail.ucsb.edu
   github: N/A
 ---
 

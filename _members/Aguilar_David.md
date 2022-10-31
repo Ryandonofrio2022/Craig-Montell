@@ -1,6 +1,6 @@
 ---
 name: David Aguilar
-image: images/dhanan.jpg
+image: images/David.jpg
 description: PhD Student
 role: phd
 aliases:

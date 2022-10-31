@@ -1,13 +1,13 @@
 ---
-name: Dhananjay Thakur 
-image: images/dhanan.jpg
-description: Postdoctoral Fellow
+name: Declan DeGeorge
+image: images/Declan.jpg
+description: Graduate Student
 role: phd
 aliases:
 
 links:
-  home-page: dhananjayfuturewebsite.com
-  email: dhananjay.p.thakur@gmail.com
+  home-page: declanmdegeorge@ucsb.edu
+  email: declanmdegeorge@ucsb.edu
   github: N/A
 ---
 

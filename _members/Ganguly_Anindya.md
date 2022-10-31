@@ -2,7 +2,7 @@
 name: Anindya Ganguly
 image: images/anin.jpg
 description: Postdoctoral Fellow
-role: phd
+role: postdoc
 aliases:
 
 links:

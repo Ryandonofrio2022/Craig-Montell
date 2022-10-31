@@ -2,7 +2,7 @@
 name: Avinash Chandel
 image: images/avina.jpg
 description: Postdoctoral Fellow
-role: phd
+role: postdoc
 aliases:
 
 links:
