@@ -25,7 +25,7 @@
   - Drosophilia melanogaster
   - Collab
   _cache: 7de6dfe6a627a09635b6cfeff542d7e309acde21998b8de81b8d988d710cdada
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.7554/eLife.56726
   title: Open collaborative writing with Manubot
   authors:
   - Daniel S. Himmelstein
@@ -48,7 +48,7 @@
   - type: website
     link: http://manubot.org/
   _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
+- id: 	10.1038/s41467-022-30975-4
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
   - Daniel S Himmelstein
@@ -74,3 +74,8 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+
+  
+- id: 10.1126/scisignal.abl6179
+- id: 10.1038/s41467-021-27654-1
+- id: 10.1002/adbi.202100842
